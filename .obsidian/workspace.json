@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Routines and Project Management/Engineering Routine.md",
+                "file": "0_Obsidian Reference/Tags Directory.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Routines and Project Management/Engineering Routine.md",
+                "file": "0_Obsidian Reference/Tags Directory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Routines and Project Management/Engineering Routine.md",
+                "file": "0_Obsidian Reference/Tags Directory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Routines and Project Management/Engineering Routine.md"
+                "file": "0_Obsidian Reference/Tags Directory.md"
               }
             }
           }
@@ -202,23 +202,23 @@
   },
   "active": "17b8f9f6c4e2c176",
   "lastOpenFiles": [
+    "_Mock Interviews/Mock Intro-Behavioral/1st Intro-Behavioral Questions.md",
+    "_Mock Interviews/Mock- Technical/1st Technical Mock.md",
     "_Routines and Project Management/Project Tracker.md",
-    "Readme draft.md",
     "_Routines and Project Management/Engineering Routine.md",
-    "_Languages and Frameworks/Languages vs Frameworks.md",
-    "_Documentation and Testing",
-    "_Languages and Frameworks/_Languages/Languages Overview.md",
+    "0_Obsidian Reference/Markdown Reference.md",
     "_Languages and Frameworks/_Frameworks/Frameworks Rundown.md",
+    "_Interview Prep/Assessment.md",
+    "_Interview Prep/Objectives.md",
+    "_Languages and Frameworks/Languages vs Frameworks.md",
+    "_Interview Prep/Overview.md",
+    "_Languages and Frameworks/_Languages/Languages Overview.md",
+    "Readme draft.md",
+    "_Documentation and Testing",
     "0_Obsidian Reference/Tags Directory.md",
     "_Languages and Frameworks/_Frameworks",
     "_Languages and Frameworks/_Languages",
     "0_Obsidian Reference/Graph View.md",
-    "0_Obsidian Reference/Markdown Reference.md",
-    "_Mock Interviews/Mock- Technical/1st Technical Mock.md",
-    "_Mock Interviews/Mock Intro-Behavioral/1st Intro-Behavioral Questions.md",
-    "_Interview Prep/Objectives.md",
-    "_Interview Prep/Assessment.md",
-    "_Interview Prep/Overview.md",
     "_Languages and Frameworks",
     "_Mock Interviews/1st Mock Intro-Behavioral/Tips.md",
     "01_Interview Prep/Untitled.md",

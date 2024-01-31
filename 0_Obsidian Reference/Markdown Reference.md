@@ -28,7 +28,6 @@ _nested italic_ text**
 + Aliases *like linking on a Google doc, you can rename the link*
 	+   [Interview Prep](<obsidian://open?vault=EngineerAtlas&file=Overview.md>)
 	+ Rename the URL by writing it in (<>)
-	+ [Obsidian Help](https://help.obsidian.md)
 + Embedded files *like a picture* ![[.file_type]]
 
 # Quotes

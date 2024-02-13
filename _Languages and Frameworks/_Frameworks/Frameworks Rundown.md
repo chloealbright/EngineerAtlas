@@ -30,6 +30,15 @@
 - Vue.js– progressive js framework for building UI
     
 - Express.js– framework built on top of Node.js for building web apps & APIs. Simplifies process of building robust and scalable server-side apps with JavaScript.
+
+- **JavaScript Frameworks**
+    
+    - Next.js and React.js are frameworks for JavaScript.
+- **Node.js**
+    
+    - Not a framework but a JavaScript runtime.
+    - Enables server-side scripting in JavaScript.
+    - Often used with JavaScript frameworks like Express.js.
     
 
 ### Django, Flask, PyTorch, TensorFlow

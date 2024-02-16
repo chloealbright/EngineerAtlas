@@ -1,31 +1,50 @@
 # EngineerAtlas
-## Overview long
-Every innovative solution stems from a problem. From the moment I led the development of my senior project, Animal Mafia, as a product owner, scrum master, and engineer, I understood the challenges that came with collaborating and developing ambitious ideas from scratch. 
+## Overview (long)
+⚙️📑 EngineerAtlas is an OS tool used in application with engineering development and skill-building to
+* ⏱️ Save time
+* 📑 Document / skillshare industry experience
+* 💥 Reduce decision fatigue & optimize workflows
 
-Beyond leading the project management and code reviews, outlining technical requirements, developing user-stories, testing, and weekly deployment of key features, there's still a vast amount of helpful information that escapes between the cycles of development and deployment.
+'A kid learns a thing or 2 working with startups. Besides the _play hard / work hard_ mentality, there remains a real need to optimize resources, leverage data, and develop the right tools at the right time. In reality, much of the useful information regarding technical decisions and considerations 
+```js 
+if(!documented){
+   // useful info escapes between the cycles of development and deployment
+}
+else{
+   // never sees the light of day once engineers switch teams, companies, or tech stacks
+}
 
-This came to my attention while developing dashboard features that provided real-time financial insights at a pre-seed fintech. Developing documentation to enhance your engineering roadmap, services architecture, and onboarding process for new engineers can be overwhelming when coupled with meeting potential clients, achieving security compliance, and well-- coding. In the world of startups and VCs, (or college) you're essentially wearing many hats. 
+```
 
-## Overview short 
-What this vault is-- 
-
-An open source (OS) tool used by engineers (& other tech professionals) to 
-
-* guide their interview prep, assessment, and strategies
-* guide their engineering development and project management
-
-* enhance their decision model around software tools & libraries, software design & architecture, and other tech considerations when deriving tech solutions.
-* enhance their learning strategies around data structures & problem solving, learning new tech skills & becoming language-agnostic  
-
-* contribute their professional / technical experiences & resources
-* innovate & connect with other engineers & professionals aligned in work ethic, adopting a growth mindset, and building professional community
-
-
-What this vault isn't--
-* this is vault is not your personal notebook or personal project management tool, as such- internal company information, classified, and personal information is prohibited.
-   
-* this vault won't teach you how to code and assumes you've taken the traditional courses at a 4-year Computer Science or related-engineering program.
-
+EngineerAtlas solves that problem by providing a collaborative knowledge base for engineers to peer review and share the following resources:
+* ### Interview Preparation
+   * Mock Tech & Behavioral Interview Process.
+   * Including interview questions, coding challenges, and solutions.
+* ### Learning and Documentation
+   * Data Structures and Algorithms (DSA) review including.
+      * Algorithm topics, uses cases, implementations, shorthand for interviews. 
+      * Data Structure types, use cases, exceptions, considerations, and code blocks.
+   * APIs and Data Pipelining
+     * Including an Overview, tecnical considerations, design, and implementations.
+   * Languages and Frameworks
+      * Including language and framework breakdown, language overlaps and implementations for optimized learning.
+   * Software Development
+      * Including Software Design, Programming Styles, and other methodologies to consider in your development.
+   * Codebase Maintenance and Exploration
+      * Index and search through codebases to quickly locate files, functions, and classes.
+      * Document codebase architecture, design decisions, and code patterns.
+      * Create and maintain technical debt logs, bug reports, and feature requests.
+      * Integrate with version control systems to track changes and updates.
+* ### Project Management
+   * Includes guides for organizing personal tasks, goals, and habits using productivity frameworks and additional resources.
+   * Guides on documenting project requirements, specifications, and user stories.
+* ### Knowledge Sharing and Collaboration:
+   * Share insights, best practices, and lessons learned with colleagues and the community.
+   * Collaborate with other engineer contributors on projects and technical articles.
+   * Host virtual/hybrid workshops, study groups, and coding sessions.
+   * Provide feedback and peer review on code, documentation, and presentations.
+  
+Every innovative solution stems from a problem. Whether you're busy developing key features, testing, reviewing code, creating infrastructure, building data pipelines or in back-to-back meetings, you can rest assured that your engineering references can be easily shared within teams and used to help in everyday technical decisions and management considerations. 
 
 ## Features
 
@@ -47,8 +66,8 @@ What this vault isn't--
 * Access engineer helper tools, guides, and updates from a single source 🌐
   
 ## Preview of EngineerAtlas 
-<img width="641" alt="MindMap_EngineerAtlas_Jan_31_2024" src="https://github.com/chloealbright/EngineerAtlas/assets/57193454/6ccc3387-a756-4f1e-8b03-2f39bb6b59bb">
-<img width="797" alt="EngineerAtlas_Frameworks_Preview" src="https://github.com/chloealbright/EngineerAtlas/assets/57193454/02777271-7e77-4ad6-a80b-4edaa3ca1617">
-<img width="829" alt="EngineerAtlas_InterviewPrep" src="https://github.com/chloealbright/EngineerAtlas/assets/57193454/82146fb0-fbcb-44db-9f3a-99a27de5b68d">
+<img width="836" alt="Updated Features Graph View 2-15-24" src="https://github.com/chloealbright/EngineerAtlas/assets/57193454/fe422536-beba-404d-8609-846314e9ca19">
+<img width="1354" alt="Updated Features DSA View 2-15-24" src="https://github.com/chloealbright/EngineerAtlas/assets/57193454/86de5088-e994-4352-ad63-3aad39a24f03">
+
 
 

@@ -1,5 +1,5 @@
 # EngineerAtlas
-## Overview (long)
+## Overview
 ⚙️📑 EngineerAtlas is an OS tool used in application with engineering development and skill-building to
 * ⏱️ Save time
 * 📑 Document / skillshare industry experience

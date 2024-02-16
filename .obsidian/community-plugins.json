@@ -1,4 +1,6 @@
 [
   "highlightr-plugin",
-  "obsidian-emoji-toolbar"
+  "obsidian-emoji-toolbar",
+  "obsidian-code-block-enhancer",
+  "cm-editor-syntax-highlight-obsidian"
 ]

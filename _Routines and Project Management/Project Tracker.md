@@ -31,4 +31,4 @@ Project Tracker Tables🔧:  Below is a Project Tracker Table example using Goog
 
 
 
-Related: #interview_prep [[Overview]] [[Engineering Routine]]
+Related: #interview_prep #quickread  [[Interview Prep Overview]] [[Engineering Routine]] 

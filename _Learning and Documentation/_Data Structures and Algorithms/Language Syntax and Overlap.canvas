@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"aa1eaed754ec9438","type":"text","text":"## Writing Comments ","x":-687,"y":-580,"width":297,"height":61},
+		{"id":"40e55cce1b7bd8a7","type":"text","text":"**Same for C++, C#, JavaScript, TypeScript, and Java**","x":-687,"y":-460,"width":370,"height":60},
+		{"id":"58a1c3eef3cef93f","type":"text","text":"\n- Single-line comment: `// This is a single-line comment`\n- Multi-line comment: `/* This is a multi-line comment */`\n","x":-760,"y":-320,"width":580,"height":120},
+		{"id":"717f250e93496be8","type":"text","text":"**Except for Python**","x":-723,"y":-140,"width":370,"height":60},
+		{"id":"5917bc7543dd2c7e","type":"text","text":"\n6. **Python**:\n    \n    - Single-line comment: `# This is a single-line comment`\n    - Multi-line comment: There is no standard multi-line comment syntax, but you can use triple quotes for multi-line strings as a workaround:\n```py\n\"\"\" This is a multi-line comment \"\"\"\n```","x":-743,"y":-40,"width":573,"height":320},
+		{"id":"0b7bbaed09320a0d","type":"text","text":"## Print Statements","x":-120,"y":-580,"width":299,"height":60},
+		{"id":"5b0a9a75b4de6f99","type":"text","text":"## Initiating Variables","x":360,"y":-580,"width":374,"height":70}
+	],
+	"edges":[
+		{"id":"926172e9357140d0","fromNode":"aa1eaed754ec9438","fromSide":"bottom","toNode":"40e55cce1b7bd8a7","toSide":"top"},
+		{"id":"3b862a4ee9ce0ba3","fromNode":"40e55cce1b7bd8a7","fromSide":"bottom","toNode":"58a1c3eef3cef93f","toSide":"top"},
+		{"id":"8676715a27fc9f63","fromNode":"717f250e93496be8","fromSide":"bottom","toNode":"5917bc7543dd2c7e","toSide":"top"},
+		{"id":"253401beb6ca53ac","fromNode":"58a1c3eef3cef93f","fromSide":"bottom","toNode":"717f250e93496be8","toSide":"top"}
+	]
+}

@@ -10,12 +10,13 @@
 **Frameworks
 
 - pre-built structures or collections of tools & libraries that simplify the dev of software apps.
-    
+
 - usually provide a set of rules, conventions, and reusable components to streamline the dev process.
+
 + Examples include Node.js, React.js, etc.
     
 
 
 
 
-Related: #languages #frameworks
+Related: #languages #frameworks #quickread 

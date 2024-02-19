@@ -39,4 +39,4 @@ Data pipelines encompass a wider range of activities beyond traditional ETL proc
 The choice of language often depends on factors such as performance requirements, ease of integration with existing systems, scalability needs, and the skills of the development team. Additionally, new languages and frameworks may emerge over time, influencing the landscape of data pipeline development.
 
 
-Related: #languages [[Languages Overview -List View]] #quickread #data_pipeline 
+Related: #languages [[Languages Overview -List View]] #quickread #data_pipeline #sql #python #java #scala #shell_scripting #ruby #r #go #etl_tools

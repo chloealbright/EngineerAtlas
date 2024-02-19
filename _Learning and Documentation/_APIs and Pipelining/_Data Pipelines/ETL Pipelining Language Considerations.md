@@ -42,4 +42,4 @@ Building an ETL (Extract, Transform, Load) pipeline requires a combination of la
 
 The choice of language depends on factors such as the complexity of the ETL process, the existing infrastructure, and the expertise of the development team. In many cases, a combination of languages and tools may be used within a single ETL pipeline.
 
-Related: #languages [[Languages Overview -List View]] #quickread #data_pipeline 
+Related: #languages [[Languages Overview -List View]] #quickread #data_pipeline #sql #python #java #scala #shell_scripting #ruby #r #go #etl_tools

@@ -83,7 +83,7 @@ Example
 ### There are 3 ways to link
 + Linking
 	+ Wiki Link: [[Interview Prep Objectives]] -creates links between notes used in Obsidian's Graph View
-	+ Markdown: [Project Tracker](Project%20Tracker.md) general external/internal linking
+	+ Markdown: [Project Tracker Overview](Project%20Tracker%20Overview.md) general external/internal linking
 + Aliases *like linking on a Google doc, you can rename the link*
 	+   [Interview Prep](<obsidian://open?vault=EngineerAtlas&file=Interview%20%20Prep$20Overview.md>)
 	+ Rename the URL by writing it in (<>)
@@ -152,4 +152,4 @@ Tags can't contain blank spaces. To separate two or more words, you can instead 
 
 
 
-Related: #obsidian_editing [[Tags Directory]] [[Graph View]] [[Paste Old Notes Here.canvas|Paste Old Notes Here]]
+Related: #obsidian_editing [[Tags Directory]] [[Graph View]] [[Paste Old Notes and Templates Here.canvas|Paste Old Notes Here]]

@@ -4,65 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "bf6491e8fcefd553",
+        "id": "e63924685ca908f3",
         "type": "tabs",
         "children": [
           {
-            "id": "5e26c615f2255e3e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Learning and Documentation/_Software Development/Programming Styles +Code.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5972d24e4b2c0986",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Learning and Documentation/_Languages and Frameworks/Languages VS Frameworks.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ee6cb067eb78c592",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Learning and Documentation/_Software Development/Programming Styles +Code.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "89291bb501d77c78",
+            "id": "13f218636786730d",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "_Interview Prep/Leetcode/LeetCode Canvas.canvas",
+                "file": "_Learning and Documentation/_Data Structures and Algorithms/Common Data Structures.canvas",
                 "viewState": {
-                  "x": -1514.7605444124529,
-                  "y": -1060.8088619730413,
-                  "zoom": -0.7177624837209235
+                  "x": 1110.0647894740118,
+                  "y": -1453.0085740206055,
+                  "zoom": -0.5466697119503786
                 }
               }
             }
           },
           {
-            "id": "afd5c86e371a95dc",
+            "id": "3db2e98af2558520",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0_Editing and Search Tags/Contributors/Each Note Should Include.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a719b678d156af41",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "fe15d2e892d450ea",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -73,9 +55,39 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "82f331dee29e0460",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "_Learning and Documentation/_Data Structures and Algorithms/Common Data Structures.canvas",
+                "viewState": {
+                  "x": 17.422867664693083,
+                  "y": -1900.2249773495046,
+                  "zoom": -0.8167751991683574
+                }
+              }
+            }
+          },
+          {
+            "id": "bed702c04cc5d6a7",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "_Interview Prep/Leetcode/LeetCode Canvas.canvas",
+                "viewState": {
+                  "x": -2932.3268239802096,
+                  "y": 4485.481703414468,
+                  "zoom": -1.2351959279884295
+                }
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -141,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Learning and Documentation/_Software Development/Programming Styles +Code.md",
+                "file": "0_Editing and Search Tags/Contributors/Each Note Should Include.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Learning and Documentation/_Software Development/Programming Styles +Code.md",
+                "file": "0_Editing and Search Tags/Contributors/Each Note Should Include.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Learning and Documentation/_Software Development/Programming Styles +Code.md"
+                "file": "0_Editing and Search Tags/Contributors/Each Note Should Include.md"
               }
             }
           }
@@ -202,55 +214,55 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ee6cb067eb78c592",
+  "active": "3db2e98af2558520",
   "lastOpenFiles": [
+    "0_Editing and Search Tags/Contributors/Paste Old Notes and Templates Here.canvas",
     "0_Editing and Search Tags/Tags Directory.md",
-    "_Learning and Documentation/_Software Development/Programming Styles +Code.md",
+    "0_Editing and Search Tags/Contributors",
+    "0_Editing and Search Tags/Contributors/Each Note Should Include.md",
     "0_Editing and Search Tags/Graph View.md",
-    "0_Editing and Search Tags/Paste Old Notes Here.canvas",
-    "_Learning and Documentation/_Languages and Frameworks/Languages VS Frameworks.md",
-    "_Interview Prep/Interview Prep Objectives.md",
-    "_Interview Prep/Interview Prep Assessment.md",
-    "_Interview Prep/Leetcode/LeetCode Canvas.canvas",
-    "_Interview Prep/Interview Prep Overview.md",
-    "_Interview Prep/_Mock Interviews/Mock- Technical/Intro Technical Mock.md",
-    "_Interview Prep/_Mock Interviews/Mock Intro-Behavioral/Intro Behavioral Questions.md",
-    "_Interview Prep/Leetcode/Leetcode Technical Review.md",
-    "_Learning and Documentation/_Data Structures and Algorithms/Big O and Time Complexity.canvas",
-    "_Learning and Documentation/_Data Structures and Algorithms/DSA Topics.md",
-    "_Routines and Project Management/Engineering Routine.md",
-    "_Routines and Project Management/Project Tracker.md",
     "0_Editing and Search Tags/Editing Reference.md",
-    "1_Images/Big O Time Complexity Chart.png",
-    "README.md",
-    "Experience",
-    "_Interview Prep/Leetcode",
-    "_Learning and Documentation/_Languages and Frameworks/_Languages/Languages Syntax and Overlap.canvas",
-    "_Learning and Documentation/_Languages and Frameworks/_Languages/Languages Overview -List View.md",
+    "_Learning and Documentation/_Data Structures and Algorithms/Common Data Structures.canvas",
+    "_Learning and Documentation/_Software Development/Programming Styles +Code.md",
+    "_Learning and Documentation/_Languages and Frameworks/Languages VS Frameworks.md",
     "_Learning and Documentation/_Languages and Frameworks/_Languages/Languages Overview.canvas",
-    "_Learning and Documentation/_Languages and Frameworks/_Languages/Interpreted VS Compiled Languages.canvas",
+    "_Learning and Documentation/_Languages and Frameworks/_Languages/Interpreted Compiled and Performance.canvas",
+    "_Learning and Documentation/_Languages and Frameworks/_Languages/Languages Overview -List View.md",
+    "_Learning and Documentation/_Data Structures and Algorithms/DSA Topics.md",
+    "_Learning and Documentation/_Data Structures and Algorithms/DSA Overview.md",
+    "_Learning and Documentation/_Data Structures and Algorithms/Big O and Time Complexity.canvas",
+    "_Interview Prep/Leetcode/LeetCode Canvas.canvas",
+    "_Routines and Project Management/Project Tracker Overview.md",
+    "README.md",
+    "_Routines and Project Management/Engineering Routine.md",
+    "_Learning and Documentation/_Languages and Frameworks/_Languages/Languages Syntax and Overlap.canvas",
     "_Learning and Documentation/_Languages and Frameworks/_Frameworks/Frameworks Rundown.md",
     "_Learning and Documentation/_Data Structures and Algorithms/Language Syntax and Overlap.canvas",
-    "_Learning and Documentation/_Data Structures and Algorithms/DSA Overview.md",
-    "_Learning and Documentation/_Data Structures and Algorithms/Common Data Structures.canvas",
-    "_Learning and Documentation/_Data Structures and Algorithms/_Algorithms",
-    "Learning and Documentation/_Data Structures and Algorithms/DSA Example Problems and Financial Applications.md",
-    "_Data Structures and Algorithms/DSA Topics and Code.canvas",
-    "_Data Structures and Algorithms/Programming Styles and Code.canvas",
-    "_Learning and Documentation/_Software Development",
-    "Common Data Structures.md",
-    "0_Obsidian Reference/Paste Code Blocks.md",
-    "0_Obsidian Reference/Preview Web Pages.md",
-    "0_Obsidian Reference/Editing Text.md",
-    "_Cyber Security and Engineering/_Security and Engineering Overview.md",
-    "_Learning and Documentation",
     "_Learning and Documentation/_APIs and Pipelining/API and Data Pipeline Overview.md",
-    "1_Images/WEB_API_Security_Overview.jpeg",
-    "main.js",
-    "manifest.json",
-    "styles.css",
+    "_Learning and Documentation/_APIs and Pipelining/Web API Security Refresh.canvas",
+    "_Learning and Documentation/_APIs and Pipelining/_Data Pipelines/General Pipelining Language Considerations.md",
+    "_Learning and Documentation/_APIs and Pipelining/_Data Pipelines/ETL Pipelining Language Considerations.md",
+    "_Interview Prep/Interview Prep Overview.md",
+    "_Interview Prep/Interview Prep Objectives.md",
+    "_Interview Prep/Interview Prep Assessment.md",
+    "_Interview Prep/_Mock Interviews/Mock Intro-Behavioral/Intro Behavioral Questions.md",
+    "_Interview Prep/_Mock Interviews/Mock- Technical/Intro Technical Mock.md",
     "codeBlock.css",
-    "_Learning and Documentation/_Data Structures and Algorithms",
+    "_Learning and Documentation/_Software Development",
+    "_Learning and Documentation/_Languages and Frameworks/_Languages",
+    "_Learning and Documentation/_Languages and Frameworks/_Frameworks",
+    "_Learning and Documentation/_Languages and Frameworks",
+    "_Learning and Documentation/_APIs and Pipelining/_Data Pipelines",
+    "_Learning and Documentation/_APIs and Pipelining",
+    "_Interview Prep/_Mock Interviews/Mock- Technical",
+    "_Interview Prep/_Mock Interviews/Mock Intro-Behavioral",
+    "_Mock Interviews/Mock- Technical/Intro Technical Mock.md",
+    "_Mock Interviews/Mock Intro-Behavioral/Intro-Behavioral Questions.md",
+    "_Languages and Frameworks/_Languages/Languages Overview.md",
+    "_Languages and Frameworks/_Languages/Languages Overview.canvas",
+    "_Languages and Frameworks/_Languages/Languages Overlap.md",
+    "1_Images/Big O Time Complexity Chart.png",
+    "1_Images/WEB_API_Security_Overview.jpeg",
     "1_Images/Big O Time Complexity Chart Revised1.png",
     "1_Images/Big O Time Complexity Revised 1.png"
   ]

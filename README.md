@@ -66,7 +66,7 @@ Every innovative solution stems from a problem. Whether you're busy developing k
 * Access engineer helper tools, guides, and updates from a single source 🌐
   
 ## Preview of EngineerAtlas 
-<img width="836" alt="Updated Features Graph View 2-15-24" src="https://github.com/chloealbright/EngineerAtlas/assets/57193454/fe422536-beba-404d-8609-846314e9ca19">
+<img width="812" alt="GraphMapView 2-19-2024" src="https://github.com/chloealbright/EngineerAtlas/assets/57193454/d7790aec-068c-4a03-b16c-1c16ba7d6934">
 <img width="1354" alt="Updated Features DSA View 2-15-24" src="https://github.com/chloealbright/EngineerAtlas/assets/57193454/86de5088-e994-4352-ad63-3aad39a24f03">
 
 

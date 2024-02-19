@@ -67,7 +67,7 @@ Every innovative solution stems from a problem. Whether you're busy developing k
   
 ## Preview of EngineerAtlas 
 <img width="812" alt="GraphMapView 2-19-2024" src="https://github.com/chloealbright/EngineerAtlas/assets/57193454/d7790aec-068c-4a03-b16c-1c16ba7d6934">
-<img width="1354" alt="Updated Features DSA View 2-15-24" src="https://github.com/chloealbright/EngineerAtlas/assets/57193454/86de5088-e994-4352-ad63-3aad39a24f03">
+<img width="1374" alt="Updated DSA Features View 2-19-24" src="https://github.com/chloealbright/EngineerAtlas/assets/57193454/f019ee44-a7a3-45e5-b7ca-34f45b8e3e56">
 
 
 

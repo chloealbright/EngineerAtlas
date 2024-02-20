@@ -1,4 +1,5 @@
 # EngineerAtlas
+![EngineerAtlas-2-19-24](https://github.com/chloealbright/EngineerAtlas/assets/57193454/d09ee99d-cfea-469c-89fb-f1fc5b3e38c3)
 ## Overview
 ⚙️📑 EngineerAtlas serves as a knowledge management and collaboration tool for engineers, enabling them to seamlessly share and collaborate on interview preparation materials, learning resources, project documentation, and knowledge sharing initiatives. It can be used in application with engineering development and skill-building to
 * ⏱️ Save time

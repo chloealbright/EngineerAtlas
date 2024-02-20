@@ -68,23 +68,27 @@ Every innovative solution stems from a problem. Whether you're busy developing e
 * Dark mode | Light Mode 👓
 * Access engineer helper tools, guides, and updates from a single source 🌐
 
-  ## Collaboration
-  * To use this resource see [How To Use EngineerAtlas](#how-to-use-engineeratlas)  ⬇️
-  * We host technical mocks weekly (_Currently Virtual / Hybrid_)
-  * To Contribute or Volunteer as a Technical Mock Interviewer / Interviewee [Fill out our SignUp🚀](https://docs.google.com/forms/d/e/1FAIpQLSfBKGoBrJgGcdciQ9HfzdUeAwSHEiamIxOG1wD1a__peeS-Sg/viewform?usp=sf_link)
+## Collaboration
+* To use this resource see [How To Use EngineerAtlas](#how-to-use-engineeratlas)  ⬇️
+* We host technical mocks weekly (_Currently Virtual / Hybrid_)
+* To Contribute or Volunteer as a Technical Mock Interviewer / Interviewee [Fill out our SignUp🚀](https://docs.google.com/forms/d/e/1FAIpQLSfBKGoBrJgGcdciQ9HfzdUeAwSHEiamIxOG1wD1a__peeS-Sg/viewform?usp=sf_link)
+
+## Preview of EngineerAtlas
+<img width="812" alt="GraphMapView 2-19-2024" src="https://github.com/chloealbright/EngineerAtlas/assets/57193454/3d79e269-4a2e-4ef7-87e7-a864e41fb2b1">
+<img width="1374" alt="Updated DSA Features View 2-19-24" src="https://github.com/chloealbright/EngineerAtlas/assets/57193454/bc8c2167-3930-41cb-b510-0a95f39c66e1">
 
 
 ## How to use EngineerAtlas
-* Download Obsidian
+* Download [Obsidian](https://obsidian.md/)
 * Fork this repo & clone it to your local environment
 * On Obsidian, open the cloned folder as a vault
-* Refer to the **Tags Directory** in the EngineerAtlas Vault for _how to search_ / use this vault
-* You can also refer to [Obsidian Documentation](https://help.obsidian.md/Plugins/Graph+view) searching with Graph view
+* Refer to the **Tags Directory** in the EngineerAtlas Vault on _how to optimize your search_ / use this vault
+* You can also refer to [Obsidian Documentation](https://help.obsidian.md/Plugins/Graph+view) for search using Graph view 🌌
 * Sync updates to your forked repo using git or directly sync updates from your repo
   
 ## How to Contribute
-_Assuming you followed the initial steps above_
-* [Fill out our SignUp to participate as a Contributor ](https://docs.google.com/forms/d/e/1FAIpQLSfBKGoBrJgGcdciQ9HfzdUeAwSHEiamIxOG1wD1a__peeS-Sg/viewform?usp=sf_link) this will be used later to verify your contributions before merging
+_Assuming you followed the initial steps above_ ⬆️
+* [Fill out our SignUp to participate as a Contributor ](https://docs.google.com/forms/d/e/1FAIpQLSfBKGoBrJgGcdciQ9HfzdUeAwSHEiamIxOG1wD1a__peeS-Sg/viewform?usp=sf_link) - this will be used later to verify your contributions before merging
 * Create a new branch to your forked repo in order to push your changes
 * After pushing your changes ⬇️
 * Goto the original repo & click--> **New Pull Request**
@@ -92,6 +96,6 @@ _Assuming you followed the initial steps above_
 * After you create the PR I'll review the proposed changes to be merged 
 * If there's any additional information or updates required, I'll include those comments on your PR ⭐
 
-We're always looking to improve!🚀 To leavve feedback on EngineerAtlas and our collaborative events [Fill out the last entry on this link](https://docs.google.com/forms/d/e/1FAIpQLSfBKGoBrJgGcdciQ9HfzdUeAwSHEiamIxOG1wD1a__peeS-Sg/viewform?usp=sf_link)
+We're always looking to improve!🚀 To leave feedback on EngineerAtlas and our collaborative events [fill out the last entry of our Sign Up](https://docs.google.com/forms/d/e/1FAIpQLSfBKGoBrJgGcdciQ9HfzdUeAwSHEiamIxOG1wD1a__peeS-Sg/viewform?usp=sf_link).
 
-For all additional inquirries, feel free to connect with me on [Linkedin]([https://www.linkedin.com/in/chloe-albright-74a828131/)
+🌐 For all additional inquiries, feel free to connect with me on [Linkedin](https://www.linkedin.com/in/chloe-albright-74a828131/).

@@ -18,7 +18,7 @@ This allows participants to collaborate, build comfortability around white board
 	  + *15-20 minutes:* writing the code.
 	  + *Remaining Time:* to Test and Debug. 
  3. *During the Interview:* Interviewers & Interviewees are encouraged to ask questions. Interviewers can ask questions around how the interviewee is approaching the problem and Interviewees can ask questions reasonable questions around methods and documentation.
- 4. *Feedback* will be provided at the end based on an assessment scale to help participants prepare for the following tech mocks.
+ 4. *Feedback* will be provided at the end based on an assessment scale to help participants prepare for the following tech mocks. See [[Interview Prep Objectives]] to guide feedback.
  
 **Technology**
 + For Tech Mock Meets we use Google Meets or Zoom
@@ -36,4 +36,4 @@ This allows participants to collaborate, build comfortability around white board
 
 
 
-Related: #interview_prep #quickread [[Interview Prep Overview]] [[Intro Behavioral Questions]]
+Related: #interview_prep #quickread [[Interview Prep Overview]] [[Intro Behavioral Questions]] 

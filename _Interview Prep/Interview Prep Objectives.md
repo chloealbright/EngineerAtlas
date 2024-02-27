@@ -1,7 +1,8 @@
 
-The [Interviewer's assessment](https://docs.google.com/document/d/1nS41AQTLAZwCOEhBhrwpoqh5Y7kePWJbSpo1RXHjTF0/edit#heading=h.kp8q0b8j3i66) of your performance is usually based on:
+The [Interviewer's assessment](Intro%20Technical%20Mock.md) of your performance is usually based on:
 + Analytical Skills
 + Coding Skills
++ Computer Science Fundamentals / Data Structures
 + Did you display this throughout your interview process?
 + Experience
 + Culture fit / Communication skills
@@ -37,6 +38,28 @@ Displays a strong foundation in computer science, relevant technologies– 
 - via Code solutions–  identifies problem statement, develops user stories & algorithms -> code that meet the general expectations for solving the problems, handling edge cases, considering growth rates, time to solve, and designing alternate solutions when possible
 
 - via Interview Process– see Tips for Interviewing
+
+### Did you display this throughout your interview process?
+
+- Were you able to break down coding problems independently, with minimal external assistance?
+- Did you utilize a brute force approach initially when encountering new coding challenges, iterating towards optimal solutions?
+- Were you able to consistently evaluate common expectations, use cases, edge cases, security considerations, and data structure efficiency to provide optimal solutions?
+- Did you efficiently identify problems, formulate use cases/edge cases, and deliver secure and efficient coding solutions within specified time constraints?
+- Were you able to structure problem-solving approaches and discuss trade-offs effectively when challenged with designing/architecting new solutions?
+
+### Experience
+
+- Were you able to apply proven ability to whiteboard algorithms and translate them into executable code?
+- Did you produce clean, well-organized code adhering to Object-Oriented Programming (OOP) principles, architectural concepts, and design knowledge?
+- Were you able to identify and address potential errors within the codebase?
+- Were you able to adapt your coding style effectively to various problem areas and use cases?
+
+### Culture fit / Communication skills
+
+- Did you effectively communicate strong foundational knowledge in computer science and relevant technologies through verbal communication?
+- Were you able to communicate data structure knowledge, runtime complexity, binary search trees, linked lists, etc., along with software design principles, rules, and exceptions, and architecture design?
+- Did you utilize pertinent technologies in past projects and effectively communicate trade-offs?
+- Were you able to demonstrate problem-solving abilities through code solutions, including problem identification, development of user stories and algorithms, meeting general expectations for solving problems, handling edge cases, considering growth rates, and designing alternate solutions when feasible?
 
 
 Related: #interview_prep [[Interview Prep Overview]] 

@@ -4,14 +4,13 @@ Peer Reviewed By: Joshua Carpentier, Mahir Eusufzai, Stanley Lim, & Daniel Salce
 
 **Regardless of whether you're looking to build your professional skills or on the job hunt, this guide is meant to help engineers learn and collaborate outside of a structured work and school setting.
 
-Developing this has been a great joy and opportunity to collaborate with tech professionals and engineers who are dedicated to continuous development, building community, and enhancing decision models around work and innovation in technology. Happy coding! 🎉💻
-### Interview Prep Purpose:
+### Interview Prep:
 
-- This is a detailed, peer-reviewed guide on how to approach engineering routines & interview preparation. 
+- **Purpose:** This is a detailed, peer-reviewed guide on how to approach engineering routines & interview preparation. 
     
-- It includes prompts throughout for good time management, goal tracking, & developing qualitative and quantitative measures around skill-building & automating engineering routines. 
+- **Significance:** Software Engineers can use this guide to work independently and to collaborate effectively while keeping the same goals, routines, and outcome measures in mind.
     
-- Software Engineers can use this guide to work independently and to collaborate effectively while keeping the same goals, routines, and outcome measures in mind.
+- **Benefits:** It includes prompts throughout for good time management, goal tracking, & developing outcome measures around skill-building & automating engineering routines. 
 
 
 

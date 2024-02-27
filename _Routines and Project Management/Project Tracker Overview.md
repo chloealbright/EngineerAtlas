@@ -2,7 +2,7 @@
 Every engineer / company has their own preferences for project tracking-
 *Popular References*: GitHub Projects, Linear, Airtable, Google Suite, *Atlassian Products* Jira / Trello, etc.
 
-For  [Interview Prep](<obsidian://open?vault=EngineerAtlas&file=Overview.md>) I used Google Drive- Sheets + Docs for low lift maintenance and easy collaboration and peer review from founders and engineers alike.
+For  [Interview Prep](Interview%20Prep%20Overview.md) I used Google Drive- Sheets + Docs for low lift maintenance and easy collaboration and peer review from founders and engineers alike.
 
 [Wakatime](https://wakatime.com/) for tracking time spent coding and developing metrics.
 Obviously for project development, you can also use Linear,  Jira, Trello, etc..

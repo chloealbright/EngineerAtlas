@@ -204,4 +204,6 @@ List View:
         - Monitor and analyze query execution plans.
 
 
-Related: #languages Canvas View--> [[Languages Overview.canvas|Languages Overview]]
+Updated: March 4th 2024
+Related: Canvas View--> [[Languages Overview.canvas|Languages Overview]], [[Languages Overview.canvas|Languages Overview]],[[Interpreted Compiled and Performance.canvas|Interpreted Compiled and Performance]], [[Languages VS Frameworks]], #development_speed #performance #quickread #compiled_languages #interpreted_languages
+ #languages 

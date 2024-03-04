@@ -71,4 +71,5 @@ In summary, APIs enable communication between software applications, while data 
 
 
 
-Related: #api #data_pipeline #insightful [[General Pipelining Language Considerations]],  [[ETL Pipelining Language Considerations]]
+Updated: March 4th 2024
+Related: [[ETL Pipelining Language Considerations]], [[General Pipelining Language Considerations]], [[Languages Overview -List View]],  #languages #api #data_pipeline #insightful

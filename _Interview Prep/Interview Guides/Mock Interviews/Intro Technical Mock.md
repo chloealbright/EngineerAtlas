@@ -11,7 +11,7 @@ This allows participants to collaborate, build comfortability around white board
 
 **Process
 
- 1. Each Interviewee chooses a [Leetcode](https://leetcode.com/problemset/) problem to be tested on and sends this to the *Groupchat* / *Interviewer* pre-Mock so that both participants come prepared. 
+ 1. Each Interviewee chooses a [Leetcode](https://leetcode.com/problemset/) problem to be tested on and sends this to the *Groupchat* / *Interviewer* pre-Mock so that both participants come prepared. (Can Refer also to [NeetCode Blind 75](https://neetcode.io/practice))
  2. Each Interviewee gets 45 mins to solve the problem: 
 	  + *5 minutes:* intro / reading question
 	  + *5-10 minutes:* clarifying all edge cases, and designing the algorithm.  
@@ -36,4 +36,5 @@ This allows participants to collaborate, build comfortability around white board
 
 
 
-Related: #interview_prep #quickread [[Interview Prep Overview]] [[Intro Behavioral Questions]] 
+Updated: March 4th 2024
+Related: [[Interview Prep Overview]],[[Intro Behavioral Questions]], #interview_prep #JPMorgan #quickread 

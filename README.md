@@ -90,7 +90,9 @@ Every innovative solution stems from a problem. Whether you're busy developing e
 ## How to Contribute
 _Assuming you followed the initial steps above_ ⬆️
 * [Fill out our SignUp to participate as a Contributor ](https://docs.google.com/forms/d/e/1FAIpQLSfBKGoBrJgGcdciQ9HfzdUeAwSHEiamIxOG1wD1a__peeS-Sg/viewform?usp=sf_link) - this will be used later to verify your contributions before merging
-* Create a new branch to your forked repo in order to push your changes
+* Read the 
+* Create a new branch to your forked repo 
+* Only push your 
 * After pushing your changes ⬇️
 * Goto the original repo & click--> **New Pull Request**
 * Select your branch as the source & include a clear description of the changes

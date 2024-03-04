@@ -61,4 +61,7 @@ const str = arr.join('');
 console.log(str); // Output: "hello"
 ```
 **Explanation:** Joins all elements of an array into a string. In this example, it joins the characters of the array into a single string.
-Related: #quickread #insightful #interview_prep #leetcode [[Interview Prep Overview]] [[Languages Overview.canvas|Languages Overview]]
+
+
+Updated: March 4th 2024
+Related: [[Interview Prep Overview]], [[Languages Overview.canvas|Languages Overview]], #interview_prep #leetcode #quickread

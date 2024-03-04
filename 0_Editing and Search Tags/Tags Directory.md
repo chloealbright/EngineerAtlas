@@ -5,10 +5,21 @@ tags:
 
   Editing
   - obsidian_editing
+  - graph_view
   - linking
   - alias
   - emojis
   - tags
+  
+  Notes labeled [Topic] Helper Tools 
+  (& some notes labeled [Topic] Overview)
+   - helper_tools
+   
+	purpose: acts as a directory for how to use & find multiple resources within that folder. 
+	benefits: for a growing folder, this optimizes usage, search time, and reduces duplicate files with the same purpose by keeping them linked & defined one place. 
+	  See Interview Prep folder for reference.
+As the 'parent directory', the Tags Directory is the only note with 'directory' in its name.    
+ 
   
   Interviews
   - interview_prep
@@ -37,6 +48,11 @@ tags:
   Interviews / Learning 
   - coding_strategy
 
+	Project Management
+	-project_management
+	-routines
+	
+
   Learning 
   - dsa
   - languages
@@ -49,6 +65,8 @@ tags:
   - data_pipeline
   - time_complexity
   - bigo
+  - algorithm_design
+  - algorithm_paradigms
   
   Languages
   - cpp
@@ -105,4 +123,5 @@ Leetcode Canvas (depending on how you break it up can be both)
 
 
 
-Related: #obsidian_editing
+Updated: March 4th 2024
+Related: [[Editing and Search Tags Overview]], [[Creating Folders]], [[Creating Content]], [[Avoid Redundancy]], [[Markdown Formatting Overview]] #obsidian_editing #tags 

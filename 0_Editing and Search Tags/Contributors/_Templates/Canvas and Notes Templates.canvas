@@ -4,12 +4,14 @@
 		{"id":"a05142b4266f3f37","type":"text","text":"### or for templates you may want to use in future editing ","x":-480,"y":350,"width":480,"height":140},
 		{"id":"bc930999377c0559","type":"text","text":"#### Example\n[[Common Data Structures.canvas|Common Data Structures]] Template","x":-200,"y":580,"width":470,"height":140},
 		{"id":"6f48fd12e6fcc48e","type":"text","text":"**Description**\n+ \n\n**Use Case**\n+ \n\n**Exceptions**\n+ \n\n**Considerations**\n+ ","x":360,"y":565,"width":580,"height":587},
-		{"id":"3a9be6777260091b","type":"text","text":"## ","x":510,"y":420,"width":280,"height":50}
+		{"id":"3a9be6777260091b","type":"text","text":"## ","x":510,"y":420,"width":280,"height":50},
+		{"id":"d5359a1ba13e15fb","type":"text","text":"Updated: March 4th 2024\nRelated: [[Editing and Search Tags Overview]], [[Tags Directory]], [[Creating Content]], [[Creating Folders]], [[Editing Reference]], [[Markdown Formatting Overview]], #obsidian_editing #tags #linking ","x":-620,"y":859,"width":707,"height":297}
 	],
 	"edges":[
 		{"id":"0eb44d779b37cc39","fromNode":"a05142b4266f3f37","fromSide":"bottom","toNode":"bc930999377c0559","toSide":"top"},
 		{"id":"d199288972ed3dc2","fromNode":"3a9be6777260091b","fromSide":"bottom","toNode":"6f48fd12e6fcc48e","toSide":"top"},
 		{"id":"54ccd056559a168f","fromNode":"bc930999377c0559","fromSide":"bottom","toNode":"6f48fd12e6fcc48e","toSide":"left"},
-		{"id":"cbc1208d17edb89c","fromNode":"416040c15c35695b","fromSide":"bottom","toNode":"a05142b4266f3f37","toSide":"top"}
+		{"id":"cbc1208d17edb89c","fromNode":"416040c15c35695b","fromSide":"bottom","toNode":"a05142b4266f3f37","toSide":"top"},
+		{"id":"9a8d84ab493e7862","fromNode":"d5359a1ba13e15fb","fromSide":"top","toNode":"416040c15c35695b","toSide":"left"}
 	]
 }

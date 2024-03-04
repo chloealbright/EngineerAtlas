@@ -62,4 +62,5 @@ Displays a strong foundation in computer science, relevant technologies– 
 - Were you able to demonstrate problem-solving abilities through code solutions, including problem identification, development of user stories and algorithms, meeting general expectations for solving problems, handling edge cases, considering growth rates, and designing alternate solutions when feasible?
 
 
-Related: #interview_prep [[Interview Prep Overview]] 
+Updated: March 4th 2024
+Related: [[Interview Prep Overview]],[[Interview Prep Objectives]], [[DSA Overview]], [[Interview Prep Assessment]], [[Project Tracker Overview]], [[Intro Technical Mock]], #interview_prep #quickread 

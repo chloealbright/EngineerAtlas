@@ -1,3 +1,4 @@
+[Obsidian Documentation](https://help.obsidian.md/Editing+and+formatting/Basic+formatting+syntax)
 # Editing Text
 
 # This is a heading 1 
@@ -16,10 +17,48 @@ _nested italic_ text**
 ***Bold and italic text***
 
 # Emojis 
-#emojis
+#emojis [Emoji Library](https://emojidb.org/)
 💡🔥⚡✅💻</>📱🧰⚙️🛠️🔧🔩🤖🚩⚠️📍👾🔎📖📚📕📘📓📔
-📝📋📌☕︎🧋🧩 💦🌱☀️🌞🌙🌟💫👩🏽‍💻👩🏻‍💻👨🏽‍💻👨🏿‍💻
+📝📋📌☕︎🧋🧩 💦🌱☀️🌞🌙🌟💫👩🏽‍💻👩🏻‍💻👨🏽‍💻👨🏿‍💻⬇️
 **^are supported, FYI
+
+# Lists
+
+You can create an unordered list by adding a `-`, `*`, or `+` before the text.
+
+```md
+- First list item
+- Second list item
+- Third list item
+```
+
+- First list item
+- Second list item
+- Third list item
+
+To create an ordered list, start each line with a number followed by a `.` symbol.
+
+```md
+1. First list item
+2. Second list item
+3. Third list item
+```
+
+1. First list item
+2. Second list item
+3. Third list item
+
+**Task lists**
+
+To create a task list, start each list item with a hyphen and space followed by `[ ]`.
+
+```md
+- [x] This is a completed task.
+- [ ] This is an incomplete task.
+```
+
+- [x] This is a completed task.
+- [ ] This is an incomplete task.
 
 # Adding Quotes
 # Quotes
@@ -35,43 +74,11 @@ _nested italic_ text**
 >One generation passeth away, and another generation cometh; but the earth abideth forever… The sun also ariseth, and the sun goeth down, and hasteth to the place where he arose… The wind goeth toward the south, and turneth about unto the north; it whirleth about continually, and the wind returneth again according to its circuits… All the rivers run into the sea; yet the sea is not full; unto the place from whence the rivers come thither they return again.
 
 \- Ecclesiastes
-
-# Creating Lists
-# Lists
-For an unordered list - * or + before the text
-- First list item 
-- Second list item 
-- Third list item
-Ordered list
- 1. First list item 
- 2. Second list item 
- 3. Third list item
-
-## Tasks List
-start each list item with a hyphen and space followed by `[ ]`
-- [x] This is a completed task. 
-- [ ] This is an incomplete task.
-
-## Nested Lists
-1. First list item 
-	1. Ordered nested list item 
-2. Second list item 
-	- Unordered nested list item
-- [ ] Task item 1 
-	- [ ] Subtask 1 
-- [ ] Task item 2 
-	- [ ] Subtask 1
-
-# Code Blocks
-*TO KEEP FORMATTING: Paste to Obsidian as plain text: shift+cmd+v*
-```js 
-function fancyAlert(arg) { 
-	if(arg) { 
-	$.facebox({div:'#foo'}) 
-	} 
-} 
-```
 refer to [Supported languages](https://prismjs.com/#supported-languages)
+
+# Adding Images
+![[Tree Command Example.png]]
+
 
 # Preview a Web Page
 Example
@@ -150,6 +157,5 @@ Tags can't contain blank spaces. To separate two or more words, you can instead 
 - [#kebab-case](https://publish.obsidian.md/#kebab-case)
 
 
-
-
-Related: #obsidian_editing [[Tags Directory]] [[Graph View]] [[Paste Old Notes and Templates Here.canvas|Paste Old Notes Here]]
+Updated: March 4th 2024
+Related: [[Editing and Search Tags Overview]], [[Tags Directory]], [[Creating Folders]], [[Creating Content]], [[Avoid Redundancy]], [[Markdown Formatting Overview]], #obsidian_editing #tags #linking 

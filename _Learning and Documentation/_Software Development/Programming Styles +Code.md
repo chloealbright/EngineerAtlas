@@ -204,4 +204,6 @@ onmessage = function(event) {
 
 These paradigms are not mutually exclusive, and many programming languages support multiple paradigms. Programmers often choose the paradigm that best fits the requirements of the specific problem they are trying to solve.
 
-Related: #insightful #javascript 
+
+Updated: March 4th 2024
+Related: [[Languages Overview.canvas|Languages Overview]], [[Recursive Algorithms]], [[Iterative Algorithms]], #development_speed #performance #quickread #compiled_languages #interpreted_languages #javascript #insightful  

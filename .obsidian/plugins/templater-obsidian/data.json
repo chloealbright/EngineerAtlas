@@ -25,7 +25,8 @@
     ""
   ],
   "startup_templates": [
-    ""
+    "0_Editing and Search Tags/Contributors/_Templates/_Template Plugin/LeetCode Template.md",
+    "0_Editing and Search Tags/Contributors/_Templates/_Template Plugin/New Note.md"
   ],
   "enable_ribbon_icon": true
 }

@@ -13,36 +13,81 @@ tags:
   
   Notes labeled [Topic] Helper Tools 
   (& some notes labeled [Topic] Overview)
-   - helper_tools
-   
-	purpose: acts as a directory for how to use & find multiple resources within that folder. 
-	benefits: for a growing folder, this optimizes usage, search time, and reduces duplicate files with the same purpose by keeping them linked & defined one place. 
-	  See Interview Prep folder for reference.
-As the 'parent directory', the Tags Directory is the only note with 'directory' in its name.    
+   - helper_tools   
  
-  
   Interviews
   - interview_prep
   - leetcode
+  - leetcode_problem
   
-  Leetcode Problem Tags 
-  (1st line name / 2nd line problem #)
-  *used in Common DSA & Leetcode Canvas*
-  - removeduplicates 
-  - leetcodeproblem_26
-  
-  Copy&paste:
-  Related: #leetcodeproblem_
+  LeetCode Name Tags: Title_Name (first 2 to 3 words)
+  *ascending order*
+  *used in Common DSA, Leetcode Canvas & Problems folder*
+  - two_sum
+  - remove_duplicates 
+  - rotated_array
+  - combination_sum
+  - group_anagrams
+  - maximum_subarray
+  - spiral_matrix
+  - simplify_path
+  - sort_colors
+  - binary_tree_level
+  - valid_palindrome
+  - reverse_words
+  - find_minumum
+  - pair_of_songs
 
-  Leetcode Tags- Name / Numbers ascending order
-  - twosum
+  - leetcode_easy
+  - leetcode_medium
+  
+
+  LeetCode Problems List: Name / Numbers *ascending order*
+  - Two Sum
   - 1
-  - removeduplicates 
+  - Remove Duplicates 
   - 26
-  - spiralmatrix
+  - Search in Rotated Sorted Array
+  - 33
+  - Combination Sum
+  - 39
+  - Group Anagrams
+  - 49
+  - Maximum Subarray
+  - 53
+  - Spiral Matrix
   - 54
-  - reversewords
+  - Simplify Path
+  - 71
+  - Sort Colors
+  - 75
+  - Binary Tree Level Order Traversal
+  - 102
+  - Valid Palindrome
+  - 125
+  - Reverse Words
   - 151
+  - Find Minimum in Rotated Sorted Array
+  - 153
+  - Pair of Songs 
+  - 1010
+  
+  LeetCode + DSA Topic Tags- *alphabetical order*
+  - array
+  - backtracking 
+  - binary_tree
+  - binary_search
+  - bfs
+  - counting
+  - divide_and_conquer
+  - dynamic_programming
+  - hash_table
+  - matrix
+  - simulation
+  - sorting
+  - stack
+  - string
+  - two_pointer
   
   
   Interviews / Learning 
@@ -120,7 +165,12 @@ Leetcode Canvas (depending on how you break it up can be both)
 ---
 ```
 
+### 📝 About Notes with Helper_Tools tag
+**Purpose:** acts as a directory for how to use & find multiple resources within that folder. 
+**Benefits:** for a growing folder, this optimizes usage, search time, and reduces duplicate files with the same purpose by keeping them linked & sorted in one place. 
+**Examples:** see Interview Prep folder for examples.
 
+📌 As the *parent directory*, **Tags Directory** is the only note with 'directory' in its name. 
 
 
 Updated: March 4th 2024

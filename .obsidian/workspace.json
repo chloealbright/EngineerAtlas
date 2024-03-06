@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "24221ebe3f4e0dbf",
+            "id": "13b78ae91aca303b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "fce25a291561943a",
+            "id": "e123d1025dedf43d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Routines and Project Management/Engineering Routine.md",
+                "file": "_Interview Prep/_LeetCode Problems/LeetCode54-Spiral Matrix.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,20 +34,35 @@
             }
           },
           {
-            "id": "73324a075aabb4ed",
+            "id": "fb23a66ec861c02b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Learning and Documentation/_Languages and Frameworks/Languages VS Frameworks.md",
+                "file": "_Interview Prep/_LeetCode Problems/LeetCode1-Two Sum.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
+          },
+          {
+            "id": "5c31b87671c0e152",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "_Interview Prep/_Code Review/LeetCode Canvas.canvas",
+                "viewState": {
+                  "x": 7779.566150474972,
+                  "y": 4305.606901701129,
+                  "zoom": -0.8723888403057244
+                }
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -66,7 +81,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTimeReverse"
+                "sortOrder": "alphabetical"
               }
             }
           },
@@ -76,7 +91,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#interpreted_languages",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -113,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Learning and Documentation/_Languages and Frameworks/Languages VS Frameworks.md",
+                "file": "_Interview Prep/_LeetCode Problems/LeetCode54-Spiral Matrix.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Learning and Documentation/_Languages and Frameworks/Languages VS Frameworks.md",
+                "file": "_Interview Prep/_LeetCode Problems/LeetCode54-Spiral Matrix.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Learning and Documentation/_Languages and Frameworks/Languages VS Frameworks.md"
+                "file": "_Interview Prep/_LeetCode Problems/LeetCode54-Spiral Matrix.md"
               }
             }
           }
@@ -175,58 +190,56 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "73324a075aabb4ed",
+  "active": "e123d1025dedf43d",
   "lastOpenFiles": [
-    "_Learning and Documentation/_Software Development/Programming Styles +Code.md",
-    "_Routines and Project Management/Engineering Routine.md",
-    "_Routines and Project Management/Project Tracker Overview.md",
-    "_Learning and Documentation/_Languages and Frameworks/Languages VS Frameworks.md",
-    "_Learning and Documentation/_Languages and Frameworks/_Languages/Languages Overview -List View.md",
+    "_Interview Prep/_LeetCode Problems/LeetCode71-Simplify Path.md",
+    "_Interview Prep/_LeetCode Problems/LeetCode75-Sort Colors.md",
+    "_Interview Prep/_LeetCode Problems/LeetCode102-Binary Tree Level Order Traversal.md",
+    "_Interview Prep/_LeetCode Problems/LeetCode125-Valid Palindrome.md",
+    "_Interview Prep/_LeetCode Problems/LeetCode151-Reverse Words in a String.md",
+    "_Interview Prep/_LeetCode Problems/LeetCode153-Find Minimum in Rotated Sorted Array.md",
+    "_Interview Prep/_LeetCode Problems/LeetCode1010-Pairs of Songs With Total Durations Divisible by 60.md",
+    "_Interview Prep/_LeetCode Problems/LeetCode1-Two Sum.md",
+    "_Interview Prep/_Code Review/LeetCode Canvas.canvas",
+    "_Interview Prep/_LeetCode Problems/LeetCode54-Spiral Matrix.md",
+    "_Interview Prep/_LeetCode Problems/LeetCode53-Maximum Subarray.md",
+    "_Interview Prep/_LeetCode Problems/LeetCode49-Group Anagrams.md",
+    "_Interview Prep/_LeetCode Problems/LeetCode39-Combination Sum.md",
+    "_Learning and Documentation/_APIs and Pipelining/_Data Pipelines/ETL Pipelining Language Considerations.md",
+    "0_Editing and Search Tags/Contributors/_Editing Guides/Avoid Redundancy.md",
+    "_Learning and Documentation/_APIs and Pipelining/API and Data Pipeline Overview.md",
+    "_Interview Prep/_LeetCode Problems/LeetCode33-Search in Rotated Sorted Array.md",
+    "_Interview Prep/_LeetCode Problems/LeetCode26-Remove Duplicates from Sorted Array.md",
+    "0_Editing and Search Tags/Contributors/_Templates/_Template Plugin/LeetCode Template.md",
+    "_Learning and Documentation/_Data Structures and Algorithms/_Data Structures/Common Data Structures.canvas",
+    "_Interview Prep/_Code Review/Built In Methods- JavaScript.md",
+    "_Learning and Documentation/_Data Structures and Algorithms/Big O and Time Complexity.canvas",
+    "0_Editing and Search Tags/Tags Directory.md",
+    "0_Editing and Search Tags/Contributors/_Templates/Canvas and Notes Templates.canvas",
+    "0_Editing and Search Tags/Contributors/_Editing Guides/Editing Reference.md",
+    "0_Editing and Search Tags/Contributors/_Templates/_Template Plugin/Updated Date.md",
+    "0_Editing and Search Tags/Contributors/_Templates/LeetCodeNum-Topic Name.md",
+    "0_Editing and Search Tags/Contributors/_Templates/_Template Plugin/New Note.md",
+    "0_Editing and Search Tags/Contributors/_Editing Guides/Creating Content.md",
+    "_Learning and Documentation/_Data Structures and Algorithms/_Data Structures",
+    "_Learning and Documentation/_Data Structures and Algorithms/_Algorithms/_Algorithm Paradigms",
+    "_Interview Prep/_Helper Tools",
+    "1_Images/Tree Command Example.png",
+    "0_Editing and Search Tags/Contributors/_Templates/_Template Plugin",
+    "0_Editing and Search Tags/Contributors/_Templates",
+    "0_Editing and Search Tags/Contributors/_Editing Guides",
+    "_Learning and Documentation/_Data Structures and Algorithms/Common Data Structures.canvas",
+    "_Interview Prep/Helper Tools",
+    "_Interview Prep/Code Review",
+    "0_Editing and Search Tags/Contributors/Paste Old Notes and Templates Here.canvas",
     "_Learning and Documentation/_Languages and Frameworks/_Languages/Languages Overview.canvas",
     "_Learning and Documentation/_Languages and Frameworks/_Languages/Interpreted Compiled and Performance.canvas",
-    "_Learning and Documentation/_Data Structures and Algorithms/_Data Structures/Common Data Structures.canvas",
-    "_Learning and Documentation/_Languages and Frameworks/_Frameworks/Frameworks Rundown.md",
-    "_Learning and Documentation/_Data Structures and Algorithms/DSA Topics.md",
-    "_Learning and Documentation/_Data Structures and Algorithms/DSA Overview.md",
-    "_Learning and Documentation/_Data Structures and Algorithms/Big O and Time Complexity.canvas",
-    "_Learning and Documentation/_Data Structures and Algorithms/_Data Structures/Queues.md",
-    "_Learning and Documentation/_Data Structures and Algorithms/_Algorithms/_Algorithm Paradigms/Recursive Algorithms.md",
-    "_Learning and Documentation/_Data Structures and Algorithms/_Algorithms/_Algorithm Paradigms/Iterative Algorithms.md",
     "_Learning and Documentation/_APIs and Pipelining/Web API Security Refresh.canvas",
-    "_Learning and Documentation/_APIs and Pipelining/API and Data Pipeline Overview.md",
-    "_Learning and Documentation/_APIs and Pipelining/_Data Pipelines/General Pipelining Language Considerations.md",
-    "_Learning and Documentation/_APIs and Pipelining/_Data Pipelines/ETL Pipelining Language Considerations.md",
-    "_Knowledge Sharing and Experience/Libraries📚.md",
-    "_Interview Prep/Interview Prep Overview.md",
-    "_Interview Prep/Interview Prep Objectives.md",
-    "_Interview Prep/Interview Prep Assessment.md",
-    "_Interview Prep/Interview Guides/Mock Interviews/Intro Technical Mock.md",
-    "_Interview Prep/Interview Guides/Mock Interviews/Intro Behavioral Questions.md",
-    "_Interview Prep/_Helper Tools/Interview Prep Helper Tools.md",
-    "_Interview Prep/_Code Review/LeetCode Canvas.canvas",
-    "_Interview Prep/_Code Review/Built In Methods- JavaScript.md",
-    "0_Editing and Search Tags/Editing and Search Tags Overview.md",
-    "0_Editing and Search Tags/Tags Directory.md",
-    "0_Editing and Search Tags/Graph View.md",
-    "0_Editing and Search Tags/Contributors/_Templates/LeetCode Problem.md",
-    "0_Editing and Search Tags/Contributors/_Templates/Canvas and Notes Templates.canvas",
-    "0_Editing and Search Tags/Contributors/_Templates/_Template Plugin",
     "1_Images/Big O Time Complexity Chart.png",
     "1_Images/WEB_API_Security_Overview.jpeg",
     "1_Images/successful-people-have-libraries.jpeg",
-    "1_Images/Tree Command Example.png",
-    "0_Editing and Search Tags/Contributors/_Editing Guides",
-    "0_Editing and Search Tags/Contributors/_Templates",
-    "_Interview Prep/_Code Review/_LeetCode Problems",
+    "_Interview Prep/_LeetCode Problems",
     "_Learning and Documentation/_Data Structures and Algorithms/_Algorithms/_Sorting Algorithms",
-    "_Learning and Documentation/_Data Structures and Algorithms/_Algorithms/_Searching Algorithms",
-    "_Learning and Documentation/_Data Structures and Algorithms/_Data Structures",
-    "_Learning and Documentation/_Data Structures and Algorithms/_Algorithms/_Algorithm Paradigms",
-    "_Knowledge Sharing and Experience",
-    "_Interview Prep/Interview Guides/Mock Interviews",
-    "_Interview Prep/Leetcode/LeetCode Canvas.canvas",
-    "_Learning and Documentation/_Languages and Frameworks/_Languages/Languages Syntax and Overlap.canvas",
-    "_Learning and Documentation/_Data Structures and Algorithms/Language Syntax and Overlap.canvas",
     "1_Images/Big O Time Complexity Chart Revised1.png",
     "1_Images/Big O Time Complexity Revised 1.png"
   ]

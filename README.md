@@ -3,10 +3,10 @@
 ## Overview
 ⚙️📑 EngineerAtlas serves as a knowledge management and collaboration tool for engineers, enabling them to seamlessly share and collaborate on interview preparation materials, learning resources, project documentation, and knowledge sharing initiatives. It can be used in application with engineering development and skill-building to
 * ⏱️ Save time
-* 📑 Document & skillshare industry experience
+* 📑 Document & skill share industry experience
 * 💥 Reduce decision fatigue, stay organized, & optimize workflows
 
-The idea behind this Obsidian tool stems from a need to facillitate the challenges I've witnessed many engineers face while working in startups. Aside from the _play hard / work hard_ mentality, there remains a real need to optimize resources, leverage data, and develop the right tools at the right time. In reality, early-stage engineering teams are often spread thin with the work to headcount ratio and much of the useful information regarding engineering decisions, docunmentation, and other technical considerations 
+The idea behind this Obsidian tool stems from a need to facilitate the challenges I've witnessed many engineers face while working in startups. Aside from the _play hard / work hard_ mentality, there remains a real need to optimize resources, leverage data, and develop the right tools at the right time. In reality, early-stage engineering teams are often spread thin with the work to headcount ratio and much of the useful information regarding engineering decisions, documentation, and other technical considerations 
 ```js 
 if(!documented){
    // useful info escapes between the cycles of development and deployment
@@ -90,9 +90,8 @@ Every innovative solution stems from a problem. Whether you're busy developing e
 ## How to Contribute
 _Assuming you followed the initial steps above_ ⬆️
 * [Fill out our SignUp to participate as a Contributor ](https://docs.google.com/forms/d/e/1FAIpQLSfBKGoBrJgGcdciQ9HfzdUeAwSHEiamIxOG1wD1a__peeS-Sg/viewform?usp=sf_link) - this will be used later to verify your contributions before merging
-* Read the 
-* Create a new branch to your forked repo 
-* Only push your 
+* 📂 0_Editing and Search Tags folder covers everything you need to know about editing and contributing
+* Create a new branch to your forked repo & push the folder/file changes there
 * After pushing your changes ⬇️
 * Goto the original repo & click--> **New Pull Request**
 * Select your branch as the source & include a clear description of the changes

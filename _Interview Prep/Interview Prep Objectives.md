@@ -63,4 +63,4 @@ Displays a strong foundation in computer science, relevant technologies– 
 
 
 Updated: March 4th 2024
-Related: [[Interview Prep Overview]],[[Interview Prep Objectives]], [[DSA Overview]], [[Interview Prep Assessment]], [[Project Tracker Overview]], [[Intro Technical Mock]], #interview_prep #quickread 
+Related: [[Interview Prep Overview]],[[Interview Prep Objectives]], [[DSA Overview]], [[Interview Prep Assessment]], [[Project Tracker Overview]], [[Intro Technical Mock]], #interview_prep #technical_interview #behavioral_interview  #quickread 

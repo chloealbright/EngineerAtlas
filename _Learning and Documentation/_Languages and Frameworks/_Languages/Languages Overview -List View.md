@@ -205,5 +205,5 @@ List View:
 
 
 Updated: March 4th 2024
-Related: Canvas View--> [[Languages Overview.canvas|Languages Overview]], [[Languages Overview.canvas|Languages Overview]],[[Interpreted Compiled and Performance.canvas|Interpreted Compiled and Performance]], [[Languages VS Frameworks]], #development_speed #performance #quickread #compiled_languages #interpreted_languages
+Related: Canvas View--> [[Languages Overview.canvas|Languages Overview]], [[Languages Overview.canvas|Languages Overview]],[[Interpreted Compiled and Performance.canvas|Interpreted Compiled and Performance]], [[Languages and Frameworks Overview]], #development_speed #performance #quickread #compiled_languages #interpreted_languages
  #languages 

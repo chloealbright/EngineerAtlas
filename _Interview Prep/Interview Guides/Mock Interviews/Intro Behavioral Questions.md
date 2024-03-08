@@ -52,4 +52,4 @@
 
 
 Updated: March 4th 2024
-Related: [[Interview Prep Overview]],[[Intro Technical Mock]], #interview_prep #JPMorgan #quickread 
+Related: [[Interview Prep Overview]],[[Intro Technical Mock]], #interview_prep #behavioral_interview #JPMorgan #quickread 

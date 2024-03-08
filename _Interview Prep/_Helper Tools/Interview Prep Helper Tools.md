@@ -6,6 +6,7 @@ Besides the [[Interview Prep Overview]], for--
 
 ### Providing Feedback for Tech Mocks / Outcome Measures
 - see [[Interview Prep Objectives]] 
+- see [[Technical Interview Breakdown]]
 
 ### Weekly Recaps / Identifying Goals
 - see [[Interview Prep Assessment]]
@@ -13,6 +14,7 @@ Besides the [[Interview Prep Overview]], for--
 ### Mock Interviews
 - see [[Intro Behavioral Questions]]
 - see [[Intro Technical Mock]]
+- see [[Interview Questions and Sample Answers]]
 
 ### LeetCode Problems Breakdown
 - see [[LeetCode Canvas.canvas|LeetCode Canvas]] and LeetCode Problems folder
@@ -23,7 +25,19 @@ Besides the [[Interview Prep Overview]], for--
 - see [[Tags Directory]] 
 - see [[Graph View]], use Graph View Features to filter related topics and resources
 
+### More Interview Prep Resources
+
+[System Design Interview with a Google Engineer](https://interviewing.io/mocks/google-system-design-distributed-databases)
+
+[System Design Blog](https://blog.bytebytego.com/p/79-engineering-blogs-to-level-up)
+
+[General Career newsletter frm Staff Instagram Engineer](https://www.developing.dev/)
+
+[Developer Blog](https://www.developing.dev/)
 
 
-Updated: March 4th 2024
+
+
+
+Updated: March 7th 2024
 Related: [[Interview Prep Overview]], [[LeetCode Canvas.canvas|LeetCode Canvas]] #interview_prep #helper_tools  #quickread 

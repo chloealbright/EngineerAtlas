@@ -17,6 +17,8 @@ tags:
  
   Interviews
   - interview_prep
+  - behavioral_interview
+  - technical_interview
   - leetcode
   - leetcode_problem
   
@@ -71,7 +73,7 @@ tags:
   - 153
   - Pair of Songs 
   - 1010
-  
+
   LeetCode + DSA Topic Tags- *alphabetical order*
   - array
   - backtracking 
@@ -93,6 +95,13 @@ tags:
   Interviews / Learning 
   - coding_strategy
 
+  Software Development + Architecture
+  - version_control
+  - program_paradigms
+  - design_patterns
+  - architecture
+  - database_management
+  
 	Project Management
 	-project_management
 	-routines

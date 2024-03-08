@@ -1,8 +1,8 @@
-
+**Example Routine below for encompassing productive habits**
 
 Morning 🕒☀️
 
-- Review daily goals, status, & timeboxed tasks
+- Review daily goals, status, & time-boxed tasks
     
 - Deep work– coding / learning ⏱️
     
@@ -53,5 +53,5 @@ Daily Goals Tracker Example—----> (I usually do this offline/from a notebook i
 
 
 
-Updated: March 4th 2024
+Updated: March 7th 2024
 Related: [[Interview Prep Overview]], [[Project Tracker Overview]], #interview_prep #project_management #quickread 

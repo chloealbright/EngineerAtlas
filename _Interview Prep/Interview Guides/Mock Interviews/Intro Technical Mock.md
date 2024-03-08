@@ -37,4 +37,4 @@ This allows participants to collaborate, build comfortability around white board
 
 
 Updated: March 4th 2024
-Related: [[Interview Prep Overview]],[[Intro Behavioral Questions]], #interview_prep #JPMorgan #quickread 
+Related: [[Interview Prep Overview]],[[Intro Behavioral Questions]], #interview_prep #technical_interview #JPMorgan #quickread 

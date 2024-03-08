@@ -3,5 +3,9 @@
   "obsidian-emoji-toolbar",
   "obsidian-code-block-enhancer",
   "cm-editor-syntax-highlight-obsidian",
-  "templater-obsidian"
+  "templater-obsidian",
+  "settings-search",
+  "cmdr",
+  "recent-files-obsidian",
+  "url-into-selection"
 ]

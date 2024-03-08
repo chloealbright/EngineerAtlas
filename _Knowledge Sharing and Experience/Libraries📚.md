@@ -1,5 +1,9 @@
 ![[successful-people-have-libraries.jpeg]]
 
+Tech Interviews
+----------------------------------------------------
+↪️ See [[Interview Prep Helper Tools]]
+
 Software Development
 ----------------------------------------------------
 [Cracking The Coding Interview](https://drive.google.com/file/d/1e_Mu5nypHdVXZd1K8jBWNZIWLMtqYjvA/view)- includes all the prep for FANG Companies + 189 best interview questions 
@@ -39,8 +43,9 @@ Other
 ----------------------------------------------------
 [Tips for tracking Tech Trends- Indeed](https://www.indeed.com/career-advice/career-development/keeping-up-with-technology)-includes decision model for which tech trends to track.
 
+
   
 
-Updated: March 4th 2024
+Updated: March 7th 2024
 Related: [[Interview Prep Overview]], [[Project Tracker Overview]], [[DSA Overview]], #algorithm_design #interview_prep #project_management
 

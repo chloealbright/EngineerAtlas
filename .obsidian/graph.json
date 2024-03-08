@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "interview prep",
+  "search": "dsa",
   "showTags": true,
   "showAttachments": true,
   "hideUnresolved": false,
@@ -17,6 +17,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.3561266779030938,
+  "scale": 1.246562428460211,
   "close": true
 }
